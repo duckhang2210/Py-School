@@ -10,7 +10,7 @@ Use Python and the Pandas library to analyze school district data and showcase t
 
 - How is the school summary affected?
 
-  ![School summary](/Resources/school_summary.png)
+  ![School summary](/Resources/schools_summary.png)
 
 - Top 5 high performing school:
 
